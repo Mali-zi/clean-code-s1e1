@@ -42,10 +42,11 @@ ul {
     margin: 0;
     padding: 0px;
 }
-.list, .section-header {
+.list, 
+.section-header {
     list-style: none;
 }
-input{
+input {
     outline: none;
 }
 .btn {
