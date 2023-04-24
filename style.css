@@ -120,7 +120,7 @@ input#new-task {
     width: 226px;
 }
 .list >    input[type="text"] {
-    width: 226px
+    width: 226px;
 }
 button.delete img {
     height: 2em;
